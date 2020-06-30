@@ -10,8 +10,5 @@ public class Aula {
         int valor =10;
         System.out.println("O resultado é :: "+ calcularValorVezesTrinta.apply(10));
 
-        
-
-
     }
 }
